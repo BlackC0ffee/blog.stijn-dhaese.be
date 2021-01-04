@@ -31,6 +31,10 @@ body {
     text-align: center;
 }
 
+.site-description {
+    margin-bottom: 7px;
+}
+
 .github a{
     padding-left: 35px !important;
     background-image: url(images/GitHub-Mark-32px.png);
