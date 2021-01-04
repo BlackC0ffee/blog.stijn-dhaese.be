@@ -1,0 +1,39 @@
+/*
+ Theme Name:   Twenty Sixteen Child
+ Description:  Twenty Fifteen Child Theme
+ Author:       Stijn D'haese
+ Template:     twentysixteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  twenty-sixteen-child
+*/
+
+body {
+    font-family: verdana, arial;
+}
+
+.site-footer {
+    clear: left;
+    width: 100%;
+    /* border-top: 1px solid #6b009b; */
+    margin-top: 15px;
+    /* padding: 5px 0px;
+    /* background: #424242; */
+    /* color: #e9e9e9; */
+    position: static;
+    bottom: 0px;
+    padding: inherit;
+}
+
+.site-info {
+    margin: auto;
+    text-align: center;
+}
+
+.github a{
+    padding-left: 35px !important;
+    background-image: url(images/GitHub-Mark-32px.png);
+    background-position: left;
+    background-repeat: no-repeat;    
+}
