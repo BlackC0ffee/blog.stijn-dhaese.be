@@ -59,6 +59,7 @@
 				<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentysixteen' ) ); ?>" class="imprint">
 					<?php printf( __( 'Proudly powered by %s', 'twentysixteen' ), 'WordPress' ); ?>
 				</a>
+				<span class="cookie">This website minimizes the use of cookies. Normally no 🍪 is placed, unless it is essential (e.g. placing comments).</span>
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->

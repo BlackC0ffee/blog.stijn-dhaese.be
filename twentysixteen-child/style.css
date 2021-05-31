@@ -41,3 +41,7 @@ body {
     background-position: left;
     background-repeat: no-repeat;    
 }
+
+.cookie {
+    display: inline-block;
+}
